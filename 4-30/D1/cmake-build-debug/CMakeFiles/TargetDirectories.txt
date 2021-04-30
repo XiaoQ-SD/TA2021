@@ -1,0 +1,3 @@
+/cygdrive/c/Users/17318/Desktop/D1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/17318/Desktop/D1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/17318/Desktop/D1/cmake-build-debug/CMakeFiles/D1.dir

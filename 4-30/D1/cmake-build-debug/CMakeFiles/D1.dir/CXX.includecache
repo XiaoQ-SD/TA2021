@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/17318/Desktop/D1/exp6.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+/cygdrive/c/Users/17318/Desktop/D1/main.cpp
+exp6.h
+/cygdrive/c/Users/17318/Desktop/D1/exp6.h
+
