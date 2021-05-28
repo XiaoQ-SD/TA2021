@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/17318/Documents/GitHub/TA2021/5-28/exp10.h
+stdio.h
+-
+iostream
+-
+
+/cygdrive/c/Users/17318/Documents/GitHub/TA2021/5-28/main.cpp
+exp10.h
+/cygdrive/c/Users/17318/Documents/GitHub/TA2021/5-28/exp10.h
+

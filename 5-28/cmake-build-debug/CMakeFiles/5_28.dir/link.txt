@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/5_28.dir/main.cpp.o  -o 5_28.exe -Wl,--out-implib,lib5_28.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
